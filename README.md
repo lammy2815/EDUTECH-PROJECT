@@ -38,4 +38,4 @@ Summary:
 The analysis highlights the profitability of Edutech schools, with School 18 leading in first-year profit and School 1 achieving the fastest breakeven point. The data underscores the importance of managing costs and optimizing instructor allocation to maximize profitability.
 This report can be used to guide strategic decisions for improving school performance and scaling operations effectively.
 
-Feel free to include this report in your GitHub repository for reference or further analysis.
+
